@@ -14,6 +14,7 @@ IGBPD also supports multiple indexing methods, ensuring its **adaptability** and
 
 🚀 **The dataset is publicly available at here**  
 
+🚀 IGBPD provides a benchmark dataset bridging the gap between unstructured business process text and structured logical workflows, enabling cutting-edge research in process mining and LLM-based analysis.
 ---
 
 ## 📂 Dataset Structure  
@@ -69,3 +70,7 @@ If you use **IGBPD** in your research, please cite:
   journal={[KDD]},
   year={2025}
 }
+
+📧 Contact
+For any questions or collaborations, please contact:
+📩 [Xiaohan.Su@student.uts.edu.au]

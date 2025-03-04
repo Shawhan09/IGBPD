@@ -61,6 +61,12 @@ This task evaluates LLMs' ability to **identify the correct domain, subdomain, a
 
 ---
 
+📧 Contact
+For any questions or collaborations, please contact:
+📩 [Xiaohan.Su@student.uts.edu.au]
+
+---
+
 ## 📜 Citation  
 If you use **IGBPD** in your research, please cite:  
 ```bibtex
@@ -71,6 +77,4 @@ If you use **IGBPD** in your research, please cite:
   year={2025}
 }
 
-📧 Contact
-For any questions or collaborations, please contact:
-📩 [Xiaohan.Su@student.uts.edu.au]
+

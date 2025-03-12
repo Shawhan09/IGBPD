@@ -77,4 +77,6 @@ If you use **IGBPD** in your research, please cite:
   year={2025}
 }
 
+<meta name="google-site-verification" content="8Zzl-Srauapl7SyE_xwOEcOfdMatSOAOWvAFqEUuahc" />
+
 
